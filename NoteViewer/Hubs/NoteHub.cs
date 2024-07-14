@@ -2,7 +2,7 @@
 
 namespace NoteViewer.Hubs
 {
-    public class ChatHub : Hub
+    public class NoteHub : Hub
     {
         public async Task SendMessage(string user, string message)
         {
