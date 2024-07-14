@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteViewer", "NoteViewer\NoteViewer.csproj", "{671FA8CE-FF7B-4AD8-846F-A059A51C2614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{671FA8CE-FF7B-4AD8-846F-A059A51C2614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{671FA8CE-FF7B-4AD8-846F-A059A51C2614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{671FA8CE-FF7B-4AD8-846F-A059A51C2614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{671FA8CE-FF7B-4AD8-846F-A059A51C2614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62099A7E-F4CD-4015-80DC-F432686E7902}
+	EndGlobalSection
+EndGlobal
